@@ -12,7 +12,7 @@ To gain a deeper understanding of these functions, we had to create our own impl
 
 #### installation
 ``` bash 
-git clone git@vogsphere.42antananarivo.mg:vogsphere/intra-uuid-0abe359f-7c6b-4067-9560-d09adfc92633-7248611-herinaan lbft 
+git clone https://github.com/MiradoAndriah/libft_42.git lbft 
 ```
    
 #### generate all the object file
